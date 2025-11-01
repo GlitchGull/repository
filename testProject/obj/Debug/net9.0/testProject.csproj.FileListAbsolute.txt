@@ -1,0 +1,14 @@
+C:\Users\josef\Desktop\repository\testProject\bin\Debug\net9.0\testProject.exe
+C:\Users\josef\Desktop\repository\testProject\bin\Debug\net9.0\testProject.deps.json
+C:\Users\josef\Desktop\repository\testProject\bin\Debug\net9.0\testProject.runtimeconfig.json
+C:\Users\josef\Desktop\repository\testProject\bin\Debug\net9.0\testProject.dll
+C:\Users\josef\Desktop\repository\testProject\bin\Debug\net9.0\testProject.pdb
+C:\Users\josef\Desktop\repository\testProject\obj\Debug\net9.0\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Desktop\repository\testProject\obj\Debug\net9.0\testProject.AssemblyInfoInputs.cache
+C:\Users\josef\Desktop\repository\testProject\obj\Debug\net9.0\testProject.AssemblyInfo.cs
+C:\Users\josef\Desktop\repository\testProject\obj\Debug\net9.0\testProject.csproj.CoreCompileInputs.cache
+C:\Users\josef\Desktop\repository\testProject\obj\Debug\net9.0\testProject.dll
+C:\Users\josef\Desktop\repository\testProject\obj\Debug\net9.0\refint\testProject.dll
+C:\Users\josef\Desktop\repository\testProject\obj\Debug\net9.0\testProject.pdb
+C:\Users\josef\Desktop\repository\testProject\obj\Debug\net9.0\testProject.genruntimeconfig.cache
+C:\Users\josef\Desktop\repository\testProject\obj\Debug\net9.0\ref\testProject.dll
