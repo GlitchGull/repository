@@ -1,0 +1,15 @@
+C:\Users\josef\Desktop\repository\BattleSim\obj\Debug\net9.0\BattleSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josef\Desktop\repository\BattleSim\obj\Debug\net9.0\BattleSim.AssemblyInfoInputs.cache
+C:\Users\josef\Desktop\repository\BattleSim\obj\Debug\net9.0\BattleSim.AssemblyInfo.cs
+C:\Users\josef\Desktop\repository\BattleSim\obj\Debug\net9.0\BattleSim.csproj.CoreCompileInputs.cache
+C:\Users\josef\Desktop\repository\BattleSim\obj\Debug\net9.0\BattleSim.sourcelink.json
+C:\Users\josef\Desktop\repository\BattleSim\bin\Debug\net9.0\BattleSim.exe
+C:\Users\josef\Desktop\repository\BattleSim\bin\Debug\net9.0\BattleSim.deps.json
+C:\Users\josef\Desktop\repository\BattleSim\bin\Debug\net9.0\BattleSim.runtimeconfig.json
+C:\Users\josef\Desktop\repository\BattleSim\bin\Debug\net9.0\BattleSim.dll
+C:\Users\josef\Desktop\repository\BattleSim\bin\Debug\net9.0\BattleSim.pdb
+C:\Users\josef\Desktop\repository\BattleSim\obj\Debug\net9.0\BattleSim.dll
+C:\Users\josef\Desktop\repository\BattleSim\obj\Debug\net9.0\refint\BattleSim.dll
+C:\Users\josef\Desktop\repository\BattleSim\obj\Debug\net9.0\BattleSim.pdb
+C:\Users\josef\Desktop\repository\BattleSim\obj\Debug\net9.0\BattleSim.genruntimeconfig.cache
+C:\Users\josef\Desktop\repository\BattleSim\obj\Debug\net9.0\ref\BattleSim.dll
