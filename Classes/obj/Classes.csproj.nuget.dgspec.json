@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\josef\\Desktop\\repository\\Classes\\Classes.csproj": {}
+    "C:\\Users\\josef\\Desktop\\repository\\classes\\Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\josef\\Desktop\\repository\\Classes\\Classes.csproj": {
+    "C:\\Users\\josef\\Desktop\\repository\\classes\\Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\josef\\Desktop\\repository\\Classes\\Classes.csproj",
+        "projectUniqueName": "C:\\Users\\josef\\Desktop\\repository\\classes\\Classes.csproj",
         "projectName": "Classes",
-        "projectPath": "C:\\Users\\josef\\Desktop\\repository\\Classes\\Classes.csproj",
+        "projectPath": "C:\\Users\\josef\\Desktop\\repository\\classes\\Classes.csproj",
         "packagesPath": "C:\\Users\\josef\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\josef\\Desktop\\repository\\Classes\\obj\\",
+        "outputPath": "C:\\Users\\josef\\Desktop\\repository\\classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\josef\\AppData\\Roaming\\NuGet\\NuGet.Config"
